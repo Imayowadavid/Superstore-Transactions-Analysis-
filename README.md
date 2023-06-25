@@ -37,9 +37,11 @@ Three(3) Dimension Tables(Customer, Location ,Product) were formed from the Tran
 3. Duplicates were removed from the Dimension Tables 
 Data modelling
 
-Please note that all the necessary relationship couldn't  be formed  successfully I.e the Product ID could not form a one (1) to many(*) because PowerBI needed assurance that the many(*) to many(*) is valid( can serve its intended purpose) before interpreting it to the way it ought to be.
+Please note that all the necessary relationship couldn't  be formed  successfully I.e the Product ID could not form a one (1) to many(*)  Relationship because PowerBI needed assurance that the many(*) to many(*) Relationship is valid( can serve its intended purpose) before interpreting it the way it ought to be.
 
 Technique Applied to Solve Barrier Encountered 
 I examined the dataset( Transaction Table ) from the  secondary source (where I imported the file from I.e Microsoft excel) in order to verify if any many(*) to many (*) Relationship was formed in any of the data category I.e the dimension tables . I realized the Product ID and Product Name fields/columns
 contained duplicated values respectively and since the Product ID and Product Name are under the same data category,  i merged both of them to form a unique identifier (Primary key;Product key ) for the product category then merged the two columns(Product ID and Product Name) accordingly to form the same Primary key;
 Product key for the Fact Table(SALESFact) .
+I removed both the Product ID and Product Name columns from the Fact Table
+Put the necessary images 

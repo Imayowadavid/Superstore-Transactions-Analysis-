@@ -5,7 +5,7 @@ Introduction
       MIAMI store is a fictional store that sells three(3) categories of products:Technology, Furniture and office supplies.
 
       Problem Statement
-      1. The Profit margin over the past 5 years(2014-2017)
+      1. To identify the Profit margin over the past 5 years(2014-2017)
       2.To identify how sales and profit trended on monthly and yearly basis 
      3.The products sub-category that's most profitable and least profitable 
      4.To examine the Top 5 and Bottom 5 product performance 
@@ -44,10 +44,12 @@ I examined the dataset( Transaction Table ) from the  secondary source (where I 
 contained duplicated values respectively and since the Product ID and Product Name are under the same data category,  i merged both of them to form a unique identifier (Primary key;Product key ) for the product category then merged the two columns(Product ID and Product Name) accordingly to form the same Primary key;
 Product key for the Fact Table(SALESFact) .
 I removed both the Product ID and Product Name columns from the Fact Table after merging to form Product Key
+
 Put the necessary images that's is related here
 
 
 Data modelling image here 
+ The structure of the data follows a star schema design consisting of three(3) Dimension Tables (Customer, Location and Product) and one Fact Table 
 
 
 

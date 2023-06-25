@@ -15,4 +15,16 @@ Introduction
 
        Skills Demonstrated 
        1. Data preparation, transformation using Microsoft excel and Power Query Editor (PowerBI)
-       2. Data modeling 
+       2. Data modelling
+       3 DAX
+       4. Quick measures 
+       5 connecting Slicers with the report
+       6. Ribbon chart 
+       7. Hyperlinks 
+       8. Tooltips
+       9.Filters
+       10. creating a Calendar Table.
+       Data sourcing 
+       
+       The sample Suoerstore dataset was gotten from Data.World
+   

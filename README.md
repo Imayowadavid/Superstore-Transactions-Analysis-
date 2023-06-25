@@ -37,4 +37,6 @@ Three(3) Dimension Tables(Customer, Location ,Product) were formed from the Tran
 3. Duplicates were removed from the Dimension Tables 
 Data modelling
 
-Please note that all the necessary relationship couldn't  be formed  successfully because PowerBI was 
+Please note that all the necessary relationship couldn't  be formed  successfully I.e the Product ID could not form a one (1) to many(*) because PowerBI needed assurance that the many(*) to many(*) is valid( can serve its intended purpose) before interpreting it to the way it ought to be.
+
+Technique Applied to Solve Barrier Encountered 

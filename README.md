@@ -24,7 +24,17 @@ Introduction
        8. Tooltips
        9.Filters
        10. creating a Calendar Table.
+       
        Data sourcing 
        
        The sample Suoerstore dataset was gotten from Data.World
-   
+       
+       Data Transformation 
+       
+1.The dataset( Transaction Table) was transformed using Power Query Editor (PowerBI)
+Three(3) Dimension Tables(Customer, Location ,Product) were formed from the Transaction Table and all the categorized tables were grouped according to related data concept
+2. Fact able ( Transaction Table ) was renamed SALESFact
+3. Duplicates were removed from the Dimension Tables 
+Data modelling
+
+Please note that all the necessary relationship couldn't  be formed  successfully because PowerBI was 

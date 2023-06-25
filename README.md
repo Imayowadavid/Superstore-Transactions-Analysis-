@@ -11,3 +11,8 @@ Introduction
      4.To examine the Top 5 and Bottom 5 product performance 
      5. Total Sales revenue and Profit generated
      6. The total cost incurred for goods / Products availability without the operating expenses
+       7. The Profit by segment ,category and Region.
+
+       Skills Demonstrated 
+       1. Data preparation, transformation using Microsoft excel and Power Query Editor (PowerBI)
+       2. Data modeling 

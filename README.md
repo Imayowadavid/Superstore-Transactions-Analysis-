@@ -43,5 +43,11 @@ Technique Applied to Solve Barrier Encountered
 I examined the dataset( Transaction Table ) from the  secondary source (where I imported the file from I.e Microsoft excel) in order to verify if any many(*) to many (*) Relationship was formed in any of the data category I.e the dimension tables . I realized the Product ID and Product Name fields/columns
 contained duplicated values respectively and since the Product ID and Product Name are under the same data category,  i merged both of them to form a unique identifier (Primary key;Product key ) for the product category then merged the two columns(Product ID and Product Name) accordingly to form the same Primary key;
 Product key for the Fact Table(SALESFact) .
-I removed both the Product ID and Product Name columns from the Fact Table
-Put the necessary images 
+I removed both the Product ID and Product Name columns from the Fact Table after merging to form Product Key
+Put the necessary images that's is related here
+
+
+Data modelling image here 
+
+
+

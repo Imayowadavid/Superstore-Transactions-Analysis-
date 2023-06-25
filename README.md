@@ -40,3 +40,4 @@ Data modelling
 Please note that all the necessary relationship couldn't  be formed  successfully I.e the Product ID could not form a one (1) to many(*) because PowerBI needed assurance that the many(*) to many(*) is valid( can serve its intended purpose) before interpreting it to the way it ought to be.
 
 Technique Applied to Solve Barrier Encountered 
+I examined the dataset( Transaction Table ) from the  secondary source (where I imported the file from I.e Microsoft excel) in order to verify if any many(*) to many (*) Relationship was formed in any of the data category I.e the dimension tables . I realized the Product ID and Product Name fields/columns

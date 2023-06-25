@@ -49,7 +49,35 @@ Put the necessary images that's is related here
 
 
 Data modelling image here 
- The structure of the data follows a star schema design consisting of three(3) Dimension Tables (Customer, Location and Product) and one Fact Table 
+ The structure of the data follows a star schema design consisting of three(3) Dimension Tables (Customer, Location and Product) and one Fact Table (SALESFact). The dimension tables are connected  to the Fact Table through a one(1) to many(*)
+Relationship. 
+
+Visualization image here 
 
 
 
+measured created images here
+
+
+
+Variance analysis Tab
+Relevance of Variance analysis for sales and profit 
+
+Top Performance chart ( sales and profit)
+talk about the items 
+
+
+Bottom Performance chart
+
+
+Conclusion
+
+
+
+Recommendations
+
+
+
+
+
+Link to PowerBI service

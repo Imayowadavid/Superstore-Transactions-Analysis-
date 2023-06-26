@@ -104,10 +104,40 @@ Bottom Performance chart
 
 
 Conclusion
-
-
+A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47.
+Even though the best way to determine whether a Profit margin is good or bad is to compare it to the average profit margin for your industry and size of business(Here are some examples of average profit margins for different industries;
+Retail : 3-5%
+Manufacturing: 5-10%
+Technology: 10%
+HealthCare: 15% ).
+Furthermore, going by the general rule of thumb, a 10% net profit margin should be considered average why a 20% net profit margin should be considered high/good enough and a 5% net profit margin is low.
+with respect to the cost of production/ availability of goods($2,010,803.84 million) incurred in the store over 5years ,it implies that the profit that's being generated is average and not really encouraging considering other crucial factors such as operating expenses like store maintenance(wages to staff, running of facilities), advertisement, Tax etc .. that will executed regardless. 
+RECOMMENDATIONS
 
 Recommendations
+
+
+1.Products with Top Sales & Profit in the West and Eastern part of the Country(USA) have shown a wide gap margin compared to the southern and central region hence they should be the target goods/products and realistic, strategic plans should be made to ensure such products are always available in large quantities(check the Top performance page to chart).
+
+2. By using a Social media content creator to leverage on popular social media platforms, more advertisement should be done in every region in the country to create more awareness about the goods / services rendered in the Superstore in order to keep improving the sales for products with poor consumptions.
+
+3.Customer service(virtual and physical ) agents should be made available to help customers provide answers to enquiries.
+
+4.Real time Digital tools for Product demonstrations like a pre- recorded video accessible on screen and on repetiton should be made available on-site to help customers learn more about the product and how to use them.
+
+5.Discounted Sales should be done occasionally for products with the least consumptions in order to encourage the customers. 
+
+6.More Delivery equipment should be made available as well as occasionally discounted rate delivery .
+
+7.Gift Wrapping; This is a great way to add a touch of luxury to your store . You can offer gift wrapping services for free or at a small fee.
+Conclusively, the recommendations provided in this report offer a roadmap for improving sales and profit performance and enhancing overall financial success.
+
+
+
+
+
+
+
 
 
 

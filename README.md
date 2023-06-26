@@ -96,7 +96,6 @@ relationship.
 **Top Performance chart**
 ***
 ![](V21.png)
-![](V24.png)
 ![](V25.png)
 
 - Technology  category( Phone) is the most Profitable product ,it generated close to 45% of the Total profit 

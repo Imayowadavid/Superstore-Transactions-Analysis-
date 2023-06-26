@@ -67,8 +67,8 @@ Visualization image here
 **Variance( Difference in Sales & Profit) Analysis**
 ***
 This report should help the Superstore management team have a mind blueprint to evaluate and get answers to the following questions:
-Which products have profitable Performance ?
-How should financial planning and Budgeting be determined?
+Which products have impressive  profitable Performance ?
+How will the trends suit planning and budget allocation?
 Are the the Pricing and Promotion really effective?
 How can the Performance Benchmarking be determined?
 Which  areas are showing inefficiencies?

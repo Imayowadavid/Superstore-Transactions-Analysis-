@@ -79,7 +79,7 @@ relationship.
 - How can the Performance Benchmarking be determined?
 - Which  areas are showing inefficiencies?
 - What are the factors influencing the sales and Profit Variance?.
-1. The images below represent the variance(Sales and Profit) according to periods( Month over Month ,Year over Year I.e monthly and yearly basis respectively for Sales and Profit. 
+      The images below represent the variance(Sales and Profit) according to periods( Month over Month ,Year over Year I.e monthly and yearly basis respectively for Sales and Profit. 
 
 ![](V1.png)
 ![](V2.png)
@@ -92,7 +92,9 @@ relationship.
 ![](V14.png)
 ![](V15.png)
 
-
+***
+**Top Performance chart**
+***
 ![](V21.png)
 ![](V22.png)
 ![](V23.png)
@@ -109,9 +111,9 @@ relationship.
 ***
 **Conclusion**
 ***
-  A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47.
-2. 
-  Even though the best way to determine whether a Profit margin is good or bad is to compare it to the average profit margin for your industry and size of business(Here are some examples of average profit margins for different industries;
+       A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47.
+       
+       Even though the best way to determine whether a Profit margin is good or bad is to compare it to the average profit margin for your industry and size of business(Here are some examples of average profit margins for different industries;
 - Retail : 3-5%
 - Manufacturing: 5-10%
 - Technology: 10%

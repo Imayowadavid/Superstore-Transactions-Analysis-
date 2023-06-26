@@ -57,11 +57,21 @@
  - I examined the dataset( Transaction Table ) from the  secondary source (the excel file on excel workbook) in order to verify if any many(*) to many (*) relationship was formed  within the dimension tables that was categorized.
  - I realized the Product ID and Product Name fields/columns contained duplicated values respectively and since the Product ID and Product Name are under the same data category,  i merged both of them to form a unique identifier (Primary key;Product key ) for the product category then merged the two columns(Product ID and Product Name) accordingly to form the same Primary key; Product key for the Fact Table(SALESFact) .
 - I removed both  Product ID and Product Name columns from the Fact Table after merging to form Product Key.
+ PowerBI Prompt seeking validity of Many-to-Many relationship
+  :--------------------------------------:
+  ![](10.png)
+  
+Conditional formating showing Duplicated values(To examine many-to-many relationship)
+:----------------------------------------------:
+![](19.png)
 
-Put the necessary images that's is related here
+**Required Relationship after Generating Primary key(Product key)**
+![](29.png)
 
+Star-schema model design
+:----------------------------------------------:
+![](35b.png)
 
-Data modelling image here (the complete one including calendar table)
 - The structure of the data follows a star schema design consisting of three(3) Dimension Tables (Customer, Location and Product) and one Fact Table (SALESFact).
 -  The dimension tables are connected  to the Fact Table through a one(1) to many(*)
 relationship.

@@ -34,7 +34,7 @@
 ***     
 **Data sourcing**
 ***
- The sample Superstore dataset was gotten from Data.World.
+ The sample Superstore dataset was gotten from data.world( https://data.world/datasets/open-data)
 ***
 **Data Transformation**
 ***

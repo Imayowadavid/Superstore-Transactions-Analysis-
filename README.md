@@ -1,11 +1,12 @@
 **##MIAMI Superstore Transactions Analysis##**(i will complete the documentation in few hours)
 ***
-![](images.jpg)
+![images](https://github.com/Imayowadavid/Superstore-Transactions-Analysis-/assets/114350322/cf2d4668-9a59-4a06-88cd-6c12272cfeca)
+
 ***
 **Introduction**
 - This project focuses on using Microsoft PowerBI to conduct sale analysis for a fictional store named " MIAMI Superstore". The primary goal is to analyze  the data and extract valuable insights in order to address essential questions that will enable the store to make informed decisions that's data-driven.
 -  
-  ~Disclaimer~: Please note that the dataset used and report generated in this context are purely fictional and do not represent any specific company ,country or institution.  They have been solely created for the purpose of demonstrating my problem solving skill with a Business intelligence Tool & capabilities of PowerBI .
+  ~Disclaimer~: Please note that the dataset used is a sample dataset and report generated in this context are purely fictional and do not represent any specific company ,country or institution.  They have been solely created for the purpose of demonstrating my problem solving skill with a Business intelligence Tool & capabilities of PowerBI .
 - MIAMI store is a fictional store that sells three(3) categories of products:Technology, Furniture and office supplies.
   **Problem Statement**
   ***
@@ -94,6 +95,7 @@ Visualization image here
 ![](V23.png)
 ![](V24.png)
 ![](V25.png)
+![images](https://github.com/Imayowadavid/Superstore-Transactions-Analysis-/assets/114350322/2211c692-b080-4736-9f62-2b1b6cb58335)
 Technology  category( Phone) is the most Profitable product ,it generates close to 45% of the 
 Total profit 
 The Paper(23.79%) and Binders(21.12%) implies the office equipment generate an impressive quota of the profits likewise the storage equipment(14.87%) and Furnishing equipment (9.12%)

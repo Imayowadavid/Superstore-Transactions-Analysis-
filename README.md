@@ -61,7 +61,7 @@
   :--------------------------------------:
   ![](10.png)
   
-Conditional formating showing Duplicated values(To examine many-to-many relationship)
+Conditional formating on Product(ID&Name) to examine Duplicated values(To examine many-to-many relationship)
 :----------------------------------------------:
 ![](19.png)
 

@@ -95,8 +95,8 @@ relationship.
 ***
 **Top Performance chart**
 ***
-![](V21.png)
 ![](V25.png)
+![](V21.png)
 
 - Technology  category( Phone) is the most Profitable product ,it generated close to 45% of the Total profit 
 - The Paper(23.79%) and Binders(21.12%) implies the office equipment generate an impressive quota of the profits likewise the storage equipment(14.87%) and Furnishing equipment (9.12%).
@@ -108,9 +108,8 @@ relationship.
 ***
 **Conclusion**
 ***
-       A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47.
-       
-       Even though the best way to determine whether a Profit margin is good or bad is to compare it to the average profit margin for your industry and size of business(Here are some examples of average profit margins for different industries;
+1. A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47.  
+2. Even though the best way to determine whether a Profit margin is good or bad is to compare it to the average profit margin for your industry and size of business(Here are some examples of average profit margins for different industries;
 - Retail : 3-5%
 - Manufacturing: 5-10%
 - Technology: 10%

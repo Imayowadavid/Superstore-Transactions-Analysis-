@@ -1,4 +1,4 @@
-**MIAMI Superstore Transactions Analysis**(i will complete the documentation in few hours)
+**MIAMI SUPERSTORE TRANSACTION ANALYSIS**(i will complete the documentation in few hours)
 ***
 ![images](https://github.com/Imayowadavid/Superstore-Transactions-Analysis-/assets/114350322/cf2d4668-9a59-4a06-88cd-6c12272cfeca)
 
@@ -64,12 +64,12 @@ Put the necessary images that's is related here
 Data modelling image here (the complete one including calendar table)
 - The structure of the data follows a star schema design consisting of three(3) Dimension Tables (Customer, Location and Product) and one Fact Table (SALESFact).
 -  The dimension tables are connected  to the Fact Table through a one(1) to many(*)
-relationship. 
-
-Visualization image here 
-
+relationship.
+***
+**Visualization**
+***
 ![](VISUALIZATION.png)
-
+***
 **Variance( Difference in Sales & Profit) Analysis**
 ***
   This report should help the Superstore management team have a mind blueprint to evaluate and get answers to the following questions:

@@ -96,8 +96,6 @@ relationship.
 **Top Performance chart**
 ***
 ![](V21.png)
-![](V22.png)
-![](V23.png)
 ![](V24.png)
 ![](V25.png)
 

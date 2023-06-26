@@ -1,4 +1,4 @@
-**MIAMI SUPERSTORE PERFORMANCE ANALYSIS**(i will complete the documentation in few hours)
+**MIAMI SUPERSTORE PERFORMANCE REPORT**(i will complete the documentation in few hours)
 ***
 ![images](https://github.com/Imayowadavid/Superstore-Transactions-Analysis-/assets/114350322/cf2d4668-9a59-4a06-88cd-6c12272cfeca)
 

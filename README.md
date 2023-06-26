@@ -1,6 +1,6 @@
 **MIAMI Superstore Transactions Analysis**
 ***
-![](maven (1).jpg)
+![](images.jpg)
 ***
 **Introduction**
 - This project focuses on using Microsoft PowerBI to conduct sale analysis for a fictional store named " MIAMI Superstore". The primary goal is to analyze  the data and extract valuable insights in order to address essential questions that will enable the store to make informed decisions that's data-driven 
@@ -65,8 +65,17 @@ Visualization image here
 ![](VISUALIZATION.png)
 
 measured created images here
-**Variance analysis**
+**Variance( Difference in Sales & Profit) Analysis**
 ***
+This report should help the Superstore management team have a mind blueprint to evaluate and get answers to the following questions:
+
+Which products have profitable Performance ?
+How should financial planning and Budgeting be determined?
+Are the the Pricing and Promotion really effective?
+How can the Performance Benchmarking be determined?
+Which  areas are showing ineffiencies?
+What are the factors influencing the sales and Profit Variance?
+
 ![](V1.png)
 ![](V2.png)
 ![](V3.png)

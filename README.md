@@ -24,6 +24,7 @@
 - Data preparation, transformation using Microsoft excel and Power Query Editor (PowerBI)
 - Data modelling
 - DAX
+- Exploratory Data analysis (EDA)
 - Quick measures 
 - Connecting Slicers with the report.
 - Ribbon chart usage.

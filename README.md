@@ -62,7 +62,7 @@ Relationship.
 
 Visualization image here 
 
-
+![](VISUALIZATION.png)
 
 measured created images here
 **Variance analysis**
@@ -70,16 +70,26 @@ measured created images here
 ![](V1.png)
 ![](V2.png)
 ![](V3.png)
-![](11a.png)
-![](11.png)
-![](12.png)
-![](13.png)
+![](V11a.png)
+![](V11.png)
+![](V12.png)
+![](V13.png)
+![](V19.png)
+![](V20.png)
 
 Top Performance chart ( sales and profit)
 talk about the items 
 
-
+![](V21.png)
+![](V22.png)
+![](V23.png)
+![](V24.png)
+![](V25.png)
 Bottom Performance chart
+![](V26.png)
+![](V27.png)
+
+
 
 
 Conclusion

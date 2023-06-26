@@ -75,6 +75,7 @@ Are the the Pricing and Promotion really effective?
 How can the Performance Benchmarking be determined?
 Which  areas are showing ineffiencies?
 What are the factors influencing the sales and Profit Variance?
+The images below represent the variance according to periods( Month over Month ,Year over Year I.e monthly and yearly basis respectively for Sales and Profit. 
 
 ![](V1.png)
 ![](V2.png)
@@ -88,7 +89,9 @@ What are the factors influencing the sales and Profit Variance?
 
 Top Performance chart ( sales and profit)
 talk about the items 
-
+Technology  device( Phone) is the most Profitable product ,it generates close to 45% of the 
+Total profit 
+The Paper(23.79%) and Binders(21.12%) implies the office equipment generate an impressive quota of the profits likewise the storage equipment(14.87%) and Furnishing equipment (9.12%)
 ![](V21.png)
 ![](V22.png)
 ![](V23.png)

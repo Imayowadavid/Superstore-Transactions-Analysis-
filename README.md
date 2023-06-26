@@ -4,42 +4,43 @@
 
 ***
 **Introduction**
-- This project focuses on using Microsoft PowerBI to conduct sale analysis for a fictional store named " MIAMI Superstore". The primary goal is to analyze  the data and extract valuable insights in order to address essential questions that will enable the store to make informed decisions that's data-driven.
+- This project focuses on using Microsoft PowerBI to conduct sale analysis for a fictional store named " MIAMI Superstore". The primary goal is to analyze  the data and extract valuable insights in order to address essential questions that will enable the store management team to make informed decisions that's data-driven.
 -  
-  ~Disclaimer~: Please note that the dataset used is a sample dataset and report generated in this context are purely fictional and do not represent any specific company ,country or institution.  They have been solely created for the purpose of demonstrating my problem solving skill with a Business intelligence Tool & capabilities of PowerBI .
+  ~Disclaimer~: Please note that the dataset used is a sample dataset and report generated in this context are purely fictional and do not represent any specific company ,country or institution.  They have been solely created for the purpose of demonstrating my problem solving skill with a Business intelligence Tool(visuals/chart ,DAX knowledge implementation) & capabilities of PowerBI .
 - MIAMI store is a fictional store that sells three(3) categories of products:Technology, Furniture and office supplies.
-  **Problem Statement**
-  ***
+***
+**Problem Statement**
+***
 1. To identify the Profit margin over the past 5 years(2014-2017)
-2.To identify how sales and profit trended on monthly and yearly basis
-3.The products sub-category that's most profitable and least profitable
-4.To examine the Top 5 and Bottom 5 product performance 
+2. To identify how sales and profit trended on monthly and yearly basis
+3. To identify the product sub-category that's most profitable and least profitable
+4. To examine the Top 5 and Bottom 5 product performance 
 5. Total Sales revenue and Profit generated
 6. The total cost incurred for goods / Products availability without the operating expenses
 7. The Profit by segment ,category and Region.
 ***
 **Skills Demonstrated**
 ***
-       1. Data preparation, transformation using Microsoft excel and Power Query Editor (PowerBI)
-       2. Data modelling
-       3. DAX
-       4. Quick measures 
-       5  connecting Slicers with the report
-       6. Ribbon chart 
-       7. Hyperlinks 
-       8. Tooltips
-       9. Filters
-       10. creating a Calendar Table.
-       
- **Data sourcing**
- ***
-The sample Superstore dataset was gotten from Data.World.
+- Data preparation, transformation using Microsoft excel and Power Query Editor (PowerBI)
+- Data modelling
+- DAX
+- Quick measures 
+- connecting Slicers with the report
+- Ribbon chart 
+- Hyperlinks 
+- Tooltips
+- Filters
+- creating a Calendar Table.
+***     
+**Data sourcing**
 ***
+ The sample Superstore dataset was gotten from Data.World.
+
 **Data Transformation**
 ***
-1.The dataset( Transaction Table) was transformed using Power Query Editor (PowerBI) 
-2.Three(3) Dimension Tables(Customer, Location ,Product) were formed from the Transaction Table and all the categorized tables were grouped according to related data concept
-2. Fact able ( Transaction Table ) was renamed SALESFact
+1. The dataset( Transaction Table) was transformed using Power Query Editor (PowerBI) 
+2. Three(3) Dimension Tables(Customer, Location ,Product) were formed from the Transaction Table and all the categorized tables were grouped according to related data concept
+3. Fact able ( Transaction Table ) was renamed SALESFact
 3. Duplicates were removed from the Dimension Tables .
 
 ![](1a.png)
@@ -49,19 +50,21 @@ The sample Superstore dataset was gotten from Data.World.
 ***
 **Data modelling**
 ***
- - Please note that all the necessary relationship couldn't  be formed  successfully I.e the Product ID could not form a one (1) to many(*)  Relationship because PowerBI needed assurance that the many(*) to many(*) Relationship is valid( can serve its intended purpose) before interpreting it the way it ought to be.
+ - Please note that all the necessary relationship couldn't  be formed  successfully I.e the Product ID could not form a one (1) to many(*)  relationship because PowerBI needed assurance that the many(*) to many(*) relationship is valid( can serve its intended purpose) before interpreting it the way it ought to be.
 ***
 **Technique Applied to Solve Barrier Encountered**
 ***
-     I examined the dataset( Transaction Table ) from the  secondary source (where I imported the file I.e Microsoft excel) in order to verify if any many(*) to many (*) relationship was formed in any of the data category I.e the dimension tables . I realized the Product ID and Product Name fields/columns contained duplicated values respectively and since the Product ID and Product Name are under the same data category,  i merged both of them to form a unique identifier (Primary key;Product key ) for the product category then merged the two columns(Product ID and Product Name) accordingly to form the same Primary key; Product key for the Fact Table(SALESFact) .
-I removed both  Product ID and Product Name columns from the Fact Table after merging to form Product Key
+ - I examined the dataset( Transaction Table ) from the  secondary source (the excel file on excel workbook) in order to verify if any many(*) to many (*) relationship was formed  within the dimension tables that was categorized.
+ - I realized the Product ID and Product Name fields/columns contained duplicated values respectively and since the Product ID and Product Name are under the same data category,  i merged both of them to form a unique identifier (Primary key;Product key ) for the product category then merged the two columns(Product ID and Product Name) accordingly to form the same Primary key; Product key for the Fact Table(SALESFact) .
+- I removed both  Product ID and Product Name columns from the Fact Table after merging to form Product Key
 
 Put the necessary images that's is related here
 
 
-Data modelling image here 
- The structure of the data follows a star schema design consisting of three(3) Dimension Tables (Customer, Location and Product) and one Fact Table (SALESFact). The dimension tables are connected  to the Fact Table through a one(1) to many(*)
-Relationship. 
+Data modelling image here (the complete one including calendar table)
+- The structure of the data follows a star schema design consisting of three(3) Dimension Tables (Customer, Location and Product) and one Fact Table (SALESFact).
+-  The dimension tables are connected  to the Fact Table through a one(1) to many(*)
+relationship. 
 
 Visualization image here 
 
@@ -75,8 +78,8 @@ Visualization image here
 - Are the the Pricing and Promotion really effective?
 - How can the Performance Benchmarking be determined?
 - Which  areas are showing inefficiencies?
-- What are the factors influencing the sales and Profit Variance?
-        The images below represent the variance(Sales and Profit) according to periods( Month over Month ,Year over Year I.e monthly and yearly basis respectively for Sales and Profit. 
+- What are the factors influencing the sales and Profit Variance?.
+1. The images below represent the variance(Sales and Profit) according to periods( Month over Month ,Year over Year I.e monthly and yearly basis respectively for Sales and Profit. 
 
 ![](V1.png)
 ![](V2.png)

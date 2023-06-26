@@ -6,7 +6,7 @@
 **Introduction**
 - This project focuses on using Microsoft PowerBI to conduct sale analysis for a fictional store named " MIAMI Superstore". The primary goal is to analyze  the data and extract valuable insights in order to address essential questions that will enable the store management team to make informed decisions that's data-driven.
 -  
-  ~Disclaimer~: Please note that the dataset used is a sample dataset and report generated in this context are purely fictional and do not represent any specific company ,country or institution.  They have been solely created for the purpose of demonstrating my problem solving skill with a Business intelligence Tool(visuals/chart ,DAX knowledge implementation) & capabilities of PowerBI .
+  ~Disclaimer~: Please note that the dataset used is a sample dataset and report generated in this context are purely fictional and do not represent any specific company ,country or institution.  They have been solely created for the purpose of demonstrating my problem solving skill with a Business intelligence Tool(visuals/chart ,DAX knowledge implementation) &  PowerBI capabilities .
 - MIAMI store is a fictional store that sells three(3) categories of products:Technology, Furniture and office supplies.
 ***
 **Problem Statement**
@@ -52,7 +52,7 @@
 ***
  - Please note that all the necessary relationship couldn't  be formed  successfully I.e the Product ID could not form a one (1) to many(*)  relationship because PowerBI needed assurance that the many(*) to many(*) relationship is valid( can serve its intended purpose) before interpreting it the way it ought to be.
 ***
-**Technique Applied to Solve Barrier Encountered**
+**Technique Applied to Solve the Barrier Encountered**
 ***
  - I examined the dataset( Transaction Table ) from the  secondary source (the excel file on excel workbook) in order to verify if any many(*) to many (*) relationship was formed  within the dimension tables that was categorized.
  - I realized the Product ID and Product Name fields/columns contained duplicated values respectively and since the Product ID and Product Name are under the same data category,  i merged both of them to form a unique identifier (Primary key;Product key ) for the product category then merged the two columns(Product ID and Product Name) accordingly to form the same Primary key; Product key for the Fact Table(SALESFact) .
@@ -100,24 +100,27 @@ relationship.
 ![](V25.png)
 
 - Technology  category( Phone) is the most Profitable product ,it generated close to 45% of the Total profit 
-- The Paper(23.79%) and Binders(21.12%) implies the office equipment generate an impressive quota of the profits likewise the storage equipment(14.87%) and Furnishing equipment (9.12%)
-Bottom Performance chart
+- The Paper(23.79%) and Binders(21.12%) implies the office equipment generate an impressive quota of the profits likewise the storage equipment(14.87%) and Furnishing equipment (9.12%).
+***
+**Bottom Performance chart**
+***
 ![](V26.png)
 ![](V27.png)
-
-
+***
 **Conclusion**
 ***
-1. A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47.
-2. Even though the best way to determine whether a Profit margin is good or bad is to compare it to the average profit margin for your industry and size of business(Here are some examples of average profit margins for different industries;
+  A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47.
+2. 
+  Even though the best way to determine whether a Profit margin is good or bad is to compare it to the average profit margin for your industry and size of business(Here are some examples of average profit margins for different industries;
 - Retail : 3-5%
 - Manufacturing: 5-10%
 - Technology: 10%
 - HealthCare: 15% ).
 2. Furthermore, going by the general rule of thumb, a 10% net profit margin should be considered average why a 20% net profit margin should be considered high/good enough and a 5% net profit margin is low.
 3. With respect to the cost of production/ availability of goods($2,010,803.84 million) incurred in the store over 5years ,it implies that the profit that's being generated is average and not really encouraging considering other crucial factors such as operating expenses like store maintenance(wages to staff, running of facilities), advertisement, Tax etc .. that will executed regardless. 
-  
+***
 **Recommendations**
+***
 
 1. Products with Top Sales & Profit in the West and Eastern part of the Country(USA) have shown a wide gap margin compared to the southern and central region hence they should be the target goods/products and realistic, strategic plans should be made to ensure such products are always available in large quantities(check the Top performance page to chart).
 

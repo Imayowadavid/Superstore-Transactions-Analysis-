@@ -67,7 +67,13 @@ Visualization image here
 measured created images here
 **Variance analysis**
 ***
-Relevance of Variance analysis for sales and profit 
+![](V1.png)
+![](V2.png)
+![](V3.png)
+![](11a.png)
+![](11.png)
+![](12.png)
+![](13.png)
 
 Top Performance chart ( sales and profit)
 talk about the items 

@@ -64,16 +64,14 @@ Visualization image here
 
 ![](VISUALIZATION.png)
 
-measured created images here
 **Variance( Difference in Sales & Profit) Analysis**
 ***
 This report should help the Superstore management team have a mind blueprint to evaluate and get answers to the following questions:
-
 Which products have profitable Performance ?
 How should financial planning and Budgeting be determined?
 Are the the Pricing and Promotion really effective?
 How can the Performance Benchmarking be determined?
-Which  areas are showing ineffiencies?
+Which  areas are showing inefficiencies?
 What are the factors influencing the sales and Profit Variance?
 The images below represent the variance according to periods( Month over Month ,Year over Year I.e monthly and yearly basis respectively for Sales and Profit. 
 
@@ -114,5 +112,5 @@ Recommendations
 
 
 
-Link to PowerBI service
-one drive Google drive for the Pbix file 
+Link to PowerBI service here
+one drive Google drive for the Pbix file link here

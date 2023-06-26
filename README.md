@@ -1,4 +1,4 @@
-**MIAMI SUPERSTORE TRANSACTION ANALYSIS**(i will complete the documentation in few hours)
+**MIAMI SUPERSTORE PERFORMANCE ANALYSIS**(i will complete the documentation in few hours)
 ***
 ![images](https://github.com/Imayowadavid/Superstore-Transactions-Analysis-/assets/114350322/cf2d4668-9a59-4a06-88cd-6c12272cfeca)
 
@@ -35,12 +35,12 @@
 **Data sourcing**
 ***
  The sample Superstore dataset was gotten from Data.World.
-
+***
 **Data Transformation**
 ***
 1. The dataset( Transaction Table) was transformed using Power Query Editor (PowerBI). 
 2. Three(3) Dimension Tables(Customer, Location ,Product) were formed from the Transaction Table and all the categorized tables were grouped according to related data concept.
-3. Fact able ( Transaction Table ) was renamed SALESFact
+3. Fact able ( Transaction Table ) was renamed SALESFact.
 3. Duplicates were removed from the Dimension Tables .
 
 ![](1a.png)
@@ -79,14 +79,19 @@ relationship.
 - How can the Performance Benchmarking be determined?
 - Which  areas are showing inefficiencies?
 - What are the factors influencing the sales and Profit Variance?.
-      The images below represent the variance(Sales and Profit) according to periods( Month over Month ,Year over Year I.e monthly and yearly basis respectively for Sales and Profit. 
-
+      The images below represent the variance(Sales and Profit) according to periods( Month over Month ,Year over Year I.e monthly and yearly basis respectively for Sales and Profit.
+  
+**Sales Variance(Monthly and Yearly)**
+:-----------------:
 ![](V1.png)
 ![](V2.png)
 ![](V3.png)
 ![](V4.png)
 ![](V6.png)
 ![](V10.png)
+
+**Profit Variance(Monthly and Yearly)**
+:--------------:
 ![](V11.png)
 ![](V13.png)
 ![](V14.png)
@@ -108,13 +113,15 @@ relationship.
 ***
 **Conclusion**
 ***
-1. A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47.  
-2. Even though the best way to determine whether a Profit margin is good or bad is to compare it to the average profit margin for your industry and size of business(Here are some examples of average profit margins for different industries;
+_A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47_.
+
+       Even though the best way to determine whether a Profit margin is good or bad is to compare it to the average profit margin for your industry and size of business(Here are some examples of average profit margins for different industries;
 - Retail : 3-5%
 - Manufacturing: 5-10%
 - Technology: 10%
 - HealthCare: 15% ).
-2. Furthermore, going by the general rule of thumb, a 10% net profit margin should be considered average why a 20% net profit margin should be considered high/good enough and a 5% net profit margin is low.
+  
+       Furthermore, going by the general rule of thumb, a 10% net profit margin should be considered average why a 20% net profit margin should be considered high/good enough and a 5% net profit margin is low.
 3. With respect to the cost of production/ availability of goods($2,010,803.84 million) incurred in the store over 5years ,it implies that the profit that's being generated is average and not really encouraging considering other crucial factors such as operating expenses like store maintenance(wages to staff, running of facilities), advertisement, Tax etc .. that will executed regardless. 
 ***
 **Recommendations**

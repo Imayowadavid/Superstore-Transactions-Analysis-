@@ -78,12 +78,13 @@ The images below represent the variance according to periods( Month over Month ,
 ![](V1.png)
 ![](V2.png)
 ![](V3.png)
-![](V11a.png)
+![](V4.png)
+![](V6.png)
+![](V10.png)
 ![](V11.png)
-![](V12.png)
 ![](V13.png)
-![](V19.png)
-![](V20.png)
+![](V14.png)
+![](V15.png)
 
 Top Performance chart ( sales and profit)
 talk about the items 

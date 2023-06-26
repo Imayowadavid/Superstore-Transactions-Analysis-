@@ -1,4 +1,4 @@
-**MIAMI SUPERSTORE PERFORMANCE REPORT**
+**MIAMI SUPERSTORE PERFORMANCE ANALYSIS**
 ***
 ![images](https://github.com/Imayowadavid/Superstore-Transactions-Analysis-/assets/114350322/cf2d4668-9a59-4a06-88cd-6c12272cfeca)
 
@@ -40,7 +40,7 @@
 ***
 1. The dataset( Transaction Table) was transformed using Power Query Editor (PowerBI). 
 2. Three(3) Dimension Tables(Customer, Location ,Product) were formed from the Transaction Table and all the categorized tables were grouped according to related data concept.
-3. Fact able ( Transaction Table ) was renamed SALESFact.
+3. Fact table ( Transaction Table ) was renamed SALESFact.
 3. Duplicates were removed from the Dimension Tables .
 
 ![](1a.png)
@@ -123,6 +123,9 @@ relationship.
 ***
 **Conclusion**
 ***
+Overview
+:-------------:
+![]( Put the image here later)
 _A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47_.
 
 Even though the best way to determine whether a Profit margin is good or bad is to compare it to the average profit margin for your industry and size of business(Here are some examples of average profit margins for different industries;

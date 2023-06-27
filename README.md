@@ -134,6 +134,7 @@ relationship.
 Overview
 :-------------:
 ![]( Put the image here later)
+
 _A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47_.
 
 Even though the best way to determine whether a Profit margin is good or bad is to compare it to the average profit margin for your industry and size of business(Here are some examples of average profit margins for different industries;

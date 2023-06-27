@@ -90,8 +90,8 @@ relationship.
 - How can the Performance Benchmarking be determined?
 - Which  areas are showing inefficiencies?
 - What are the factors influencing the sales and Profit Variance?.
-- 
-  The images below represent the variance(Sales and Profit) according to periods( Month over Month ,Year over Year I.e monthly and yearly basis respectively for Sales and Profit.
+ 
+  The images below represent the variance(Sales and Profit) according to periods( Month over Month ,Year over Year I.e monthly and yearly basis respectively for Sales and Profit;
   
 **Sales Variance(Monthly and Yearly)**
 :-----------------:

@@ -113,7 +113,7 @@ relationship.
 **Profit Variance(Monthly and Yearly)**
 :--------------:
 ![](V11.png)
-- _The image Above Represents Profit Variance(Monthly and Yearly) no Slicer chart connection_  
+- _The image Above Represents Profit Variance(Monthly and Yearly) with no Slicer chart connection_  
 ![](V2.png)
 ![](V13.png)
 ![](V14.png)

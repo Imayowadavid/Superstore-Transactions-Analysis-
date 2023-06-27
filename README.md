@@ -40,7 +40,7 @@
 **Data Transformation**
 ***
 1. The dataset( Transaction Table) was transformed using Power Query Editor (PowerBI). 
-2. Three(3) Dimension Tables(Customer, Location ,Product) were formed from the Transaction Table and all the categorized tables were grouped according to related data concept.
+2. Three(3) Dimension Tables(Customer, Location ,Product) were formed from the Transaction Table and categorized  according to related data concept.
 3. Fact table ( Transaction Table ) was renamed SALESFact.
 3. Duplicates were removed from the Dimension Tables .
 
@@ -155,6 +155,7 @@ With respect to the cost of production/ availability of goods($2,010,803.84 mill
 6. More Delivery equipment should be made available as well as occasionally discounted rate delivery .
 
 7. Gift Wrapping; This is a great way to add a touch of luxury to your store . You can offer gift wrapping services for free or at a small fee.
+   
 Conclusively, the recommendations provided in this report offer a roadmap for improving sales and profit performance and enhancing overall financial success.
 
 

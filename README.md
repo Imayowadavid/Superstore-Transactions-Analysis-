@@ -6,7 +6,7 @@
 **Introduction**
 - This project focuses on using Microsoft PowerBI to conduct sale analysis for a fictional store named " MIAMI Superstore" that's located in USA. The primary goal is to analyze  the data and extract valuable insights in order to address essential questions that will enable the store management team to make informed decisions that's data-driven.
 -  
-  _Disclaimer_: _Please note that the dataset used is a sample dataset and report generated in this context are purely fictional and do not represent any specific company ,country or institution.  They have been solely created for the purpose of demonstrating my problem solving skill with a Business intelligence Tool(visuals/chart ,DAX knowledge implementation) &  PowerBI capabilities ._
+  _Disclaimer_: _Please note that the image used above likewise the dataset  is a sample  and report generated in this context are purely fictional I.e they do not represent any specific store, company ,country or institution.  They have been solely created for the purpose of demonstrating my problem solving skill with a Business intelligence Tool(visuals/chart ,DAX knowledge implementation) &  PowerBI capabilities ._
 - MIAMI store is a fictional store that sells three(3) categories of products:Technology, Furniture and office supplies.
 ***
 **Problem Statement**
@@ -18,7 +18,7 @@
 5. Total Sales revenue and Profit generated.
 6. The total cost incurred for goods / Products availability without the operating expenses
 7. The Profit by segment ,category and Region.
-   ***
+***
 **Tools Used**
 ***
   - Microsoft excel
@@ -32,7 +32,7 @@
 - DAX
 - Exploratory Data analysis (EDA)
 - Quick measures 
-- Connecting Slicers with the report.
+- Connecting Slicers chart with the report.
 - Ribbon chart usage.
 - Hyperlinks 
 - Tooltips
@@ -102,6 +102,7 @@ relationship.
 **Sales Variance(Monthly and Yearly)**
 :-----------------:
 ![](V1.png)
+- _The image Above Represents no  Slicer chart connection_ 
 ![](V2.png)
 ![](V3.png)
 ![](V4.png)
@@ -111,6 +112,8 @@ relationship.
 **Profit Variance(Monthly and Yearly)**
 :--------------:
 ![](V11.png)
+- _The image Above Represents no Slicer chart connection_  
+![](V2.png)
 ![](V13.png)
 ![](V14.png)
 ![](V15.png)

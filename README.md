@@ -4,7 +4,7 @@
 
 ***
 **Introduction**
-- This project focuses on using Microsoft PowerBI to conduct sale analysis for a fictional store named " MIAMI Superstore". The primary goal is to analyze  the data and extract valuable insights in order to address essential questions that will enable the store management team to make informed decisions that's data-driven.
+- This project focuses on using Microsoft PowerBI to conduct sale analysis for a fictional store named " MIAMI Superstore" that's located in USA. The primary goal is to analyze  the data and extract valuable insights in order to address essential questions that will enable the store management team to make informed decisions that's data-driven.
 -  
   _Disclaimer_: _Please note that the dataset used is a sample dataset and report generated in this context are purely fictional and do not represent any specific company ,country or institution.  They have been solely created for the purpose of demonstrating my problem solving skill with a Business intelligence Tool(visuals/chart ,DAX knowledge implementation) &  PowerBI capabilities ._
 - MIAMI store is a fictional store that sells three(3) categories of products:Technology, Furniture and office supplies.
@@ -18,6 +18,12 @@
 5. Total Sales revenue and Profit generated.
 6. The total cost incurred for goods / Products availability without the operating expenses
 7. The Profit by segment ,category and Region.
+   ***
+**Tools Used**
+***
+  - Microsoft excel
+  - Power Query Editor on PowerBI
+  - Microsoft PowerBI 
 ***
 **Skills Demonstrated**
 ***

@@ -57,7 +57,7 @@
 ***
 **Data modelling**
 ***
- - Please note that all the necessary relationship couldn't  be formed  successfully I.e the Product ID could not form a one (1) to many(*)  relationship because PowerBI needed assurance that the many(*) to many(*) relationship is valid( can serve its intended purpose) before interpreting it the way it ought to be.
+ - Please note that all the necessary relationship could not  be formed  successfully ;the Product ID could not form a one (1) to many (*)  relationship because PowerBI needed assurance that the many (*) to many(*) relationship is valid( can serve its intended purpose) before interpreting it the way it ought to be.
 ***
 **Technique Applied to Solve the Barrier Encountered**
 ***
@@ -102,7 +102,8 @@ relationship.
 **Sales Variance(Monthly and Yearly)**
 :-----------------:
 ![](V1.png)
-- _The image Above Represents no  Slicer chart connection_ 
+- _The image Above Represents no  Slicer chart connection_
+  
 ![](V2.png)
 ![](V3.png)
 ![](V4.png)

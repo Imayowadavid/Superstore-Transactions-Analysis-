@@ -7,7 +7,7 @@
 - This project focuses on using Microsoft PowerBI to conduct sale analysis for a fictional store named " MIAMI Superstore" that's located in USA. The primary goal is to analyze  the data and extract valuable insights in order to address essential questions that will enable the store management team to make informed decisions that's data-driven.
 -  
   _Disclaimer_: _Please note that the image used above likewise the dataset  is a sample  and the report generated in this context are purely fictional I.e they do not represent any specific store, company ,country or institution.  They have been solely created for the purpose of demonstrating my problem solving skill with a Business intelligence Tool(visuals/chart ,DAX knowledge implementation) &  PowerBI capabilities ._
-- MIAMI store is a fictional store that sells three(3) categories of products:Technology, Furniture and office supplies.
+- MIAMI store is a store that sells three(3) categories of products:Technology, Furniture and office supplies.
 ***
 **Problem Statement**
 ***
@@ -135,9 +135,9 @@ relationship.
 ***
 **Conclusion**
 ***
-Overview
+   Overview
 :-------------:
-![]( Put the image here later)
+![]( overview.png)
 
 _A profit margin of 12.47 % or 0.1247 over 5years of transactions in the superstore means that for every $100 in sales revenue ,the store generates a profit of $12.47_.
 

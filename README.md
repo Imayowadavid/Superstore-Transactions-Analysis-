@@ -168,12 +168,8 @@ With respect to the cost of production/ availability of goods($2,010,803.84 mill
 
 7. Gift Wrapping; This is a great way to add a touch of luxury to your store . You can offer gift wrapping services for free or at a small fee.
    
-Conclusively, the recommendations provided in this report offer a roadmap for improving sales and profit performance and enhancing overall financial success.
+ Conclusively, the recommendations provided in this report offer a roadmap for improving sales and profit performance and enhancing overall financial success.
 
+Link to Dashbord on PowerBI service here( https://app.powerbi.com/links/YwcwwI0kBz?ctid=72c2caba-4a2b-434c-80dd-759bc088d6db&pbi_source=linkShare )
 
-
-
-
-Link to PowerBI service here( )
-one drive 
-Google drive for the Pbix file link here
+Google drive link for the Pbix file link here( https://drive.google.com/file/d/10iIJLMQqH28gk19f-RxlMkBP9ZjZpZox/view?usp=sharing)

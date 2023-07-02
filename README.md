@@ -85,7 +85,8 @@ relationship.
 ***
 **Visualization**
 ***
-![](VISUALIZATION.png)
+![Visualization](https://github.com/Imayowadavid/Superstore-Transactions-Analysis-/assets/114350322/fcbf93a5-d4c0-4904-8e4d-12687eac6069)
+
 ***
 **Variance( Difference in Sales & Profit) Analysis**
 ***

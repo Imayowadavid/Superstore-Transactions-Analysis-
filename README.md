@@ -131,10 +131,10 @@ relationship.
 ***
 **Top Performance charts**
 ***
-![](Top5.png)
-
+![](top5subcategory.png)
 - Technology  category( Phone) is the most Profitable product ,it generated close to 45% of the Total profit 
 - The Paper(23.79%) and Binders(21.12%) implies the office equipment generate an impressive quota of the profits likewise the storage equipment(14.87%) and Furnishing equipment (9.12%).
+**Sales by Year(States)
  ![](Top5.png) 
 
 ***
@@ -183,5 +183,8 @@ With respect to the cost of production/ availability of goods($2,010,803.84 mill
 
 Link to Dashbord on PowerBI service here
 (https://app.powerbi.com/links/QSUTeUV-P-?ctid=72c2caba-4a2b-434c-80dd-759bc088d6db&pbi_source=linkShare)
-Google drive link to download  complete Report Pbix file  here https://drive.google.com/file/d/1sZd79wInu874J550f-Rcrt-5yWwJFWm1/view?usp=drivesdk
+Google drive link to download  complete Report Pbix file  here
+https://drive.google.com/file/d/1sZd79wInu874J550f-Rcrt-5yWwJFWm1/view?usp=drivesdk
+
+https://drive.google.com/file/d/1sZd79wInu874J550f-Rcrt-5yWwJFWm1/view?usp=drivesdk
 

@@ -125,10 +125,11 @@ relationship.
 ***
 ![](V25.png)
 ![](V21.png)
-![Screenshot_20231004-112549_Gallery](https://github.com/Imayowadavid/Superstore-Transactions-Analysis-/assets/114350322/1c7c7699-52ce-4dec-824a-7dfb5d0b670f)
 
 - Technology  category( Phone) is the most Profitable product ,it generated close to 45% of the Total profit 
 - The Paper(23.79%) and Binders(21.12%) implies the office equipment generate an impressive quota of the profits likewise the storage equipment(14.87%) and Furnishing equipment (9.12%).
+  ![Uploading Screenshot_20231004-112549_Gallery.jpg…]()
+
 ***
 **Bottom Performance charts**
 ***

@@ -83,11 +83,19 @@ Star-schema model design
 -  The dimension tables are connected  to the Fact Table through a one(1) to many(*)
 relationship.
 ***
+  This report should help the Superstore management team have a mind blueprint to evaluate and get answers to the following questions:
+- Which products have impressive  profitable Performance ?
+- How will the trends suit planning and budget allocation with time?
+- Are the the Pricing and Promotion really effective?
+- How can the Performance Benchmarking be determined?
+- Which  areas are showing inefficiencies?
+- What are the factors influencing the sales and Profit Variance?.
+ 
 **Visualization**
 ***
 ![](Visualization.png)
 ***
-**Monthly Trends of sales Over 2014-2017
+**Monthly Trends of sales Over 2014-2017**
 ***
 ![](feb.png)
 ![](march.png)
@@ -103,14 +111,7 @@ relationship.
 ***
 **Variance( Difference in Sales & Profit) Analysis**
 ***
-  This report should help the Superstore management team have a mind blueprint to evaluate and get answers to the following questions:
-- Which products have impressive  profitable Performance ?
-- How will the trends suit planning and budget allocation with time?
-- Are the the Pricing and Promotion really effective?
-- How can the Performance Benchmarking be determined?
-- Which  areas are showing inefficiencies?
-- What are the factors influencing the sales and Profit Variance?.
- 
+
   The images below represent the variance(Sales and Profit) according to periods( Month over Month ,Year over Year I.e monthly and yearly basis respectively for Sales and Profit;
   
 **Sales Variance(Monthly and Yearly)**

@@ -11,7 +11,7 @@
 ***
 **Problem Statement**
 ***
-1. To identify the Profit margin over the past 5 years(2014-2017).
+1. To identify the Profit margin over the past 4 years(2014-2017).
 2. To identify how sales and profit trended on monthly and yearly basis.
 3. To identify the product sub-category that's most profitable and least profitable.
 4. To examine the Top 5 and Bottom 5 product performance .

@@ -181,6 +181,7 @@ With respect to the cost of production/ availability of goods($2,010,803.84 mill
    
  Conclusively, the recommendations provided in this report offer a roadmap for improving sales and profit performance and enhancing overall financial success.
 
-Link to Dashbord on PowerBI service here https://app.powerbi.com/links/kVCQFi4-ef?ctid=72c2caba-4a2b-434c-80dd-759bc088d6db&pbi_source=linkShare)
+Link to Dashbord on PowerBI service here
+(https://app.powerbi.com/links/QSUTeUV-P-?ctid=72c2caba-4a2b-434c-80dd-759bc088d6db&pbi_source=linkShare)
+Google drive link to download  complete Report Pbix file  here https://drive.google.com/file/d/1sZd79wInu874J550f-Rcrt-5yWwJFWm1/view?usp=drivesdk
 
-Google drive link to download  complete Report Pbix file  here( https://drive.google.com/file/d/1QbP-vQIm13ErzMY9YT0pL2kpwmvXoXag/view?usp=sharing)

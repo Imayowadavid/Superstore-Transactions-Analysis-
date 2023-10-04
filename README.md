@@ -140,7 +140,7 @@ relationship.
 - Technology  category( Phone) is the most Profitable product ,it generated close to 45% of the Total profit 
 - The Paper(23.79%) and Binders(21.12%) implies the office equipment generate an impressive quota of the profits likewise the storage equipment(14.87%) and Furnishing equipment (9.12%).
 ***
-**Sales by Year(States)
+Sales by Year(States)
 ***
  ![](Top5.png) 
 
@@ -149,9 +149,10 @@ relationship.
 ***
 ![](V26.png)
 ![](V27.png)
-
-**Sales by Year(States)
-![](bottomsubcategory.png)
+***
+Sales by Year(States)
+***
+![](Bottom5.png)
 
 ***
 **Conclusion**
@@ -170,7 +171,7 @@ Even though the best way to determine whether a Profit margin is good or bad is 
   
 Furthermore, going by the general rule of thumb, a 10% net profit margin should be considered average why a 20% net profit margin should be considered high/good enough and a 5% net profit margin is low.
 
-With respect to the cost of production/ availability of goods($2,010,803.84 million) incurred in the store over 5years ,it implies that the profit that's being generated is average and not really encouraging considering other crucial factors such as operating expenses like store maintenance(wages to staff, running of facilities), advertisement, Tax etc .. that will executed regardless. 
+With respect to the cost of production/ availability of goods($2,010,803.84 million)  incurred in the store over 5years ,it implies that the profit that's being generated is average and not really encouraging considering other crucial factors such as operating expenses like store maintenance(wages to staff, running of facilities), advertisement, Tax etc .. that will executed regardless. 
 ***
 **Recommendations**
 ***

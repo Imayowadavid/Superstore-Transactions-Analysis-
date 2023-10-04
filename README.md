@@ -97,7 +97,7 @@ relationship.
 - The month of march shows a decline in sales with respect to the 4 data points(2014-2017)
 - The month of september and  December indicate an impressive sales revenue generation.
 - The month of November is best season for sales
-- The use of  line chart with respect to time series analysis have been able to deduce the patterns/trends of sales to reveal the good and bad season for sales revenue over the last for 4years(2014-2017) i.e february -march (spring season ) is not a good period to increase production of goods and services while september-December(autumn season) is the best period to increase the production of goods and services .
+- The use of  line chart with respect to time series analysis have been able to deduce the patterns/trends of sales to reveal the good and bad season for sales revenue over the last 4 years(2014-2017) i.e January - April (spring season ) is not a good period to increase production of goods and services while september-December(autumn season) is the best period to increase the production of goods and services .
 
 
 ***
@@ -140,7 +140,7 @@ relationship.
 - Technology  category( Phone) is the most Profitable product ,it generated close to 45% of the Total profit 
 - The Paper(23.79%) and Binders(21.12%) implies the office equipment generate an impressive quota of the profits likewise the storage equipment(14.87%) and Furnishing equipment (9.12%).
 ***
-Sales by Year(States)
+**Sales by Year(States)**
 ***
  ![](Top5.png) 
 
@@ -150,7 +150,7 @@ Sales by Year(States)
 ![](V26.png)
 ![](V27.png)
 ***
-Sales by Year(States)
+**Sales by Year(States)**
 ***
 ![](Bottom5.png)
 

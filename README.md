@@ -86,7 +86,7 @@ relationship.
   This report should help the Superstore management team  to have a mind blueprint to evaluate and get answers to the following questions:
 - Which products have impressive  profitable Performance ?
 - How will the trends suit planning and budget allocation with time?
-- Are the the Pricing and Promotion really effective?
+- Are the Pricing and Promotion really effective?
 - How can the Performance Benchmarking be determined?
 - Which  areas are showing inefficiencies?
 - What are the factors influencing the sales and Profit Variance?.

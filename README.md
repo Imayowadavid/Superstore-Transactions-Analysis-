@@ -86,6 +86,14 @@ relationship.
 **Visualization**
 ***
 ![](Visualization.png)
+***
+**Monthly Trends of sales Over 2014-2017
+***
+![](feb.png)
+![](march.png)
+![](september.png)
+![](December.png)
+
 
 ***
 **Variance( Difference in Sales & Profit) Analysis**
